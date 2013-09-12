@@ -1,3 +1,5 @@
+Below is taken from the Tinkerforge IMU brick repository
+
 IMU Brick
 =========
 
